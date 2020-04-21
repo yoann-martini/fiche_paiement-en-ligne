@@ -1,6 +1,6 @@
 # fiche_paiement-en-ligne
 
- Sommaire : 
+ ## Sommaire : 
  - Les concurrents Paypal
  - Sandbox
  - payement process
@@ -8,7 +8,7 @@
  - CGV
  - Paypal IPN.
  
- Principaux concurrents :
+ ### Principaux concurrents :
 - Paylib 
 - Stripe 
 - Masterpass 
@@ -17,19 +17,19 @@
 - Yesbycash 
 - Skrill 
 
-Sandbox :
+### Sandbox :
 Un bac à sable est un espace isolé du logiciel ou système d'exploitation hôte comprenant des composants logiciels, des logiciels ou des groupes de logiciels. Cette isolation permet l'éxécution du ou des composants logiciels sans corrompre le système hôte. On peut utiliser une sandbox pour éxécuter du code non testé et appréhender certains choix de conception ou de moyens.
 
-Payement process :
+### Payement process :
 Le payement process (procédé de paiement) est le process, service qui automatise les transactions entre l'acheteur et le marchand.
 C'est souvent un tierce service qui verifie accepte ou décline les transactions par carte bancaire à travers une connection sécurisée.
 
-Principales obligations légales ecommerce :
+### Principales obligations légales ecommerce :
 - Doter votre site de CGV sur mesure.
 - Gérer le traitement des données des clients
 - Intégrer les exigences légales dans le tunnel de commande.
 
-CGV :
+### CGV :
 CGV c'est quoi : Les conditions générales de vente (cgv) qui encadrent les relations fournisseur-clients, peuvent être obligatoires dans de nombreux cas. Les cgv récapitulent un ensemble d'informations fournies par un fournisseur à son client,sur les conditions légales de vente de ses marchandises ou d'éxécution de ses services.
 
 Obligatoirement pas écrit, chaque information est présentée dans une clause. Il y a un ensemble de clauses oligatoires et des clauses recommandées.
@@ -48,7 +48,7 @@ de protéger le fournisseur ainsi que ses clients, d’informer ses clients avan
 
 Enfin les cgv sont obligatoires en B to B et B to C
 
-Paypal IPN :
+### Paypal IPN :
 L'instant payment notification, notification de paiement instantanée est un service de messagerie qui informe automatiquement les commerçants des événements liés aux transactions Paypal. Il peut être utilisé pour automatiser les fonctins administratives et le back office, notamment pour exécuter automatiquement les commandes et fournir aux clients le statut des commandes.
 
 l'ip informe les commerçants presque instantanément des événements de transaction tel que :
